@@ -1,0 +1,216 @@
+[ 
+    {
+        "id" : "mate-01",
+        "titulo": "Mate Camionero",
+        "imagen": "./img/Camioneros/ALPACA.jpg",
+        "categoria": {
+            "nombre":"Camioneros",
+            "id":"camioneros"
+        },
+        "precio": 2500
+    },
+    {
+        "id" : "mate-02",
+        "titulo": "Mate Camionero",
+        "imagen": "./img/Camioneros/CAMIONERO.jpg",
+        "categoria": {
+            "nombre":"Camioneros",
+            "id":"camioneros"
+        },
+        "precio": 3000
+    },
+    {
+        "id" : "mate-03",
+        "titulo": "Mate Camionero",
+        "imagen": "./img/Camioneros/CAMIONERO_2.jpg",
+        "categoria": {
+            "nombre":"Camioneros",
+            "id":"camioneros"
+        },
+        "precio": 3500
+    },
+    {
+        "id" : "mate-04",
+        "titulo": "Mate Camionero",
+        "imagen": "./img/Camioneros/CAMIONERO_3.jpg",
+        "categoria": {
+            "nombre":"Camioneros",
+            "id":"camioneros"
+        },
+        "precio": 2500
+    },
+    {
+        "id" : "mate-05",
+        "titulo": "Mate camionero",
+        "imagen": "./img/Camioneros/CAMIONERO_4.jpg",
+        "categoria": {
+            "nombre":"Camioneros",
+            "id":"camioneros"
+        },
+        "precio": 2500
+    },
+    {
+        "id" : "mate-06",
+        "titulo": "Mate camionero",
+        "imagen": "./img/Camioneros/CAMIONERO_5.jpg",
+        "categoria": {
+            "nombre":"Camioneros",
+            "id":"camioneros"
+        },
+        "precio": 2500
+    },
+    {
+        "id" : "mate-07",
+        "titulo": "Mate alpaca",
+        "imagen": "./img/Camioneros/CAMIONERO_6.jpg",
+        "categoria": {
+            "nombre":"Camioneros",
+            "id":"camioneros"
+        },
+        "precio": 2500
+    },
+    {
+        "id" : "mate-08",
+        "titulo": "Mate camionero",
+        "imagen": "./img/Camioneros/CAMIONERO_7.jpg",
+        "categoria": {
+            "nombre":"Camioneros",
+            "id":"camioneros"
+        },
+        "precio": 2500
+    },
+    {
+        "id" : "mate-09",
+        "titulo": "Mate camionero",
+        "imagen": "./img/Camioneros/CAMIONERO_8.jpg",
+        "categoria": {
+            "nombre":"Camioneros",
+            "id":"camioneros"
+        },
+        "precio": 2500
+    },
+    {
+        "id" : "mate-10",
+        "titulo": "Mate camionero",
+        "imagen": "./img/Camioneros/CAMIONERO_9.jpg",
+        "categoria": {
+            "nombre":"Camioneros",
+            "id":"camioneros"
+        },
+        "precio": 2500
+    },
+
+    {
+        "id":"pampa-01",
+        "titulo":"Mate pampa",
+        "imagen":"./img/Pampa/PAMPA_1.jpg",
+        "categoria":{
+            "nombre":"Pampa",
+            "id":"pampa"
+        },
+        "precio": 3500
+    },
+    {
+        "id":"pampa-02",
+        "titulo":"Mate pampa",
+        "imagen":"./img/Pampa/PAMPA_2.jpg",
+        "categoria":{
+            "nombre":"Pampa",
+            "id":"pampa"
+        },
+        "precio": 3500
+    },
+    {
+        "id":"pampa-03",
+        "titulo":"Mate pampa",
+        "imagen":"./img/Pampa/PAMPA_3.jpg",
+        "categoria":{
+            "nombre":"Pampa",
+            "id":"pampa"
+        },
+        "precio": 3500
+    },
+    {
+        "id":"pampa-04",
+        "titulo":"Mate pampa",
+        "imagen":"./img/Pampa/PAMPA_4.jpg",
+        "categoria":{
+            "nombre":"Pampa",
+            "id":"pampa"
+        },
+        "precio": 3500
+    },
+    {
+        "id":"pampa-05",
+        "titulo":"Mate pampa",
+        "imagen":"./img/Pampa/PAMPA_5.jpg",
+        "categoria":{
+            "nombre":"Pampa",
+            "id":"pampa"
+        },
+        "precio": 3500
+    },
+    {
+        "id":"pampa-06",
+        "titulo":"Mate pampa",
+        "imagen":"./img/Pampa/PAMPA_6.jpg",
+        "categoria":{
+            "nombre":"Pampa",
+            "id":"pampa"
+        },
+        "precio": 3500
+    },
+    {
+        "id":"pampa-07",
+        "titulo":"Mate pampa",
+        "imagen":"./img/Pampa/PAMPA_7.jpg",
+        "categoria":{
+            "nombre":"Pampa",
+            "id":"pampa"
+        },
+        "precio": 3500
+    },
+    {
+        "id":"pampa-08",
+        "titulo":"Mate pampa",
+        "imagen":"./img/Pampa/PAMPA_8.jpg",
+        "categoria":{
+            "nombre":"Pampa",
+            "id":"pampa"
+        },
+        "precio": 3500
+    },
+    {
+        "id":"termos-01",
+        "titulo":"Termo 01",
+        "imagen":"./img/Termos/TERMO_1.jpg",
+        "categoria":{
+            "nombre":"Termos",
+            "id":"termos"
+        },
+        "precio":5000
+    },
+    {
+        "id":"termos-02",
+        "titulo":"Termo 02",
+        "imagen":"./img/Termos/TERMO_2.jpg",
+        "categoria":{
+            "nombre":"Termos",
+            "id":"termos"
+        },
+        "precio":5000
+    },
+    {
+        "id":"termos-03",
+        "titulo":"Termo 03",
+        "imagen":"./img/Termos/TERMO_3.jpg",
+        "categoria":{
+            "nombre":"Termos",
+            "id":"termos"
+        },
+        "precio":5000
+    }
+   
+
+
+]
