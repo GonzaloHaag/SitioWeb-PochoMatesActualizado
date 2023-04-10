@@ -4,7 +4,7 @@
         "titulo": "Mate Camionero",
         "imagen": "./img/Camioneros/ALPACA.jpg",
         "categoria": {
-            "nombre":"Camioneros",
+            "nombre":"Mates Camioneros",
             "id":"camioneros"
         },
         "precio": 2500
@@ -14,7 +14,7 @@
         "titulo": "Mate Camionero",
         "imagen": "./img/Camioneros/CAMIONERO.jpg",
         "categoria": {
-            "nombre":"Camioneros",
+            "nombre":"Mates Camioneros",
             "id":"camioneros"
         },
         "precio": 3000
@@ -24,7 +24,7 @@
         "titulo": "Mate Camionero",
         "imagen": "./img/Camioneros/CAMIONERO_2.jpg",
         "categoria": {
-            "nombre":"Camioneros",
+            "nombre":"Mates Camioneros",
             "id":"camioneros"
         },
         "precio": 3500
@@ -64,7 +64,7 @@
         "titulo": "Mate alpaca",
         "imagen": "./img/Camioneros/CAMIONERO_6.jpg",
         "categoria": {
-            "nombre":"Camioneros",
+            "nombre":"Mates Camioneros",
             "id":"camioneros"
         },
         "precio": 2500
@@ -74,7 +74,7 @@
         "titulo": "Mate camionero",
         "imagen": "./img/Camioneros/CAMIONERO_7.jpg",
         "categoria": {
-            "nombre":"Camioneros",
+            "nombre":"Mates Camioneros",
             "id":"camioneros"
         },
         "precio": 2500
@@ -84,7 +84,7 @@
         "titulo": "Mate camionero",
         "imagen": "./img/Camioneros/CAMIONERO_8.jpg",
         "categoria": {
-            "nombre":"Camioneros",
+            "nombre":"Mates Camioneros",
             "id":"camioneros"
         },
         "precio": 2500
@@ -94,7 +94,7 @@
         "titulo": "Mate camionero",
         "imagen": "./img/Camioneros/CAMIONERO_9.jpg",
         "categoria": {
-            "nombre":"Camioneros",
+            "nombre":"Mates Camioneros",
             "id":"camioneros"
         },
         "precio": 2500
@@ -102,27 +102,27 @@
 
     {
         "id":"pampa-01",
-        "titulo":"Mate pampa",
+        "titulo":"Mate pampa marron",
         "imagen":"./img/Pampa/PAMPA_1.jpg",
         "categoria":{
-            "nombre":"Pampa",
+            "nombre":"Mates Pampa",
             "id":"pampa"
         },
         "precio": 3500
     },
     {
         "id":"pampa-02",
-        "titulo":"Mate pampa",
+        "titulo":"Mate pampa negro",
         "imagen":"./img/Pampa/PAMPA_2.jpg",
         "categoria":{
-            "nombre":"Pampa",
+            "nombre":"Mates Pampa",
             "id":"pampa"
         },
         "precio": 3500
     },
     {
         "id":"pampa-03",
-        "titulo":"Mate pampa",
+        "titulo":"Mate pampa rosa",
         "imagen":"./img/Pampa/PAMPA_3.jpg",
         "categoria":{
             "nombre":"Pampa",
@@ -132,17 +132,17 @@
     },
     {
         "id":"pampa-04",
-        "titulo":"Mate pampa",
+        "titulo":"Mate pampa blanco",
         "imagen":"./img/Pampa/PAMPA_4.jpg",
         "categoria":{
-            "nombre":"Pampa",
+            "nombre":"Mates Pampa",
             "id":"pampa"
         },
         "precio": 3500
     },
     {
         "id":"pampa-05",
-        "titulo":"Mate pampa",
+        "titulo":"Mate pampa gris",
         "imagen":"./img/Pampa/PAMPA_5.jpg",
         "categoria":{
             "nombre":"Pampa",
@@ -165,7 +165,7 @@
         "titulo":"Mate pampa",
         "imagen":"./img/Pampa/PAMPA_7.jpg",
         "categoria":{
-            "nombre":"Pampa",
+            "nombre":"Mates Pampa",
             "id":"pampa"
         },
         "precio": 3500
@@ -175,15 +175,15 @@
         "titulo":"Mate pampa",
         "imagen":"./img/Pampa/PAMPA_8.jpg",
         "categoria":{
-            "nombre":"Pampa",
+            "nombre":"Mates Pampa",
             "id":"pampa"
         },
         "precio": 3500
     },
     {
         "id":"termos-01",
-        "titulo":"Termo 01",
-        "imagen":"./img/Termos/TERMO_1.jpg",
+        "titulo":"Combo stanley negro",
+        "imagen":"./img/Termos/combo-stanley-negro.jpg",
         "categoria":{
             "nombre":"Termos",
             "id":"termos"
@@ -192,8 +192,8 @@
     },
     {
         "id":"termos-02",
-        "titulo":"Termo 02",
-        "imagen":"./img/Termos/TERMO_2.jpg",
+        "titulo":"Combo stanley rosa",
+        "imagen":"./img/Termos/combo-stanley-rosa.jpg",
         "categoria":{
             "nombre":"Termos",
             "id":"termos"
@@ -202,8 +202,8 @@
     },
     {
         "id":"termos-03",
-        "titulo":"Termo 03",
-        "imagen":"./img/Termos/TERMO_3.jpg",
+        "titulo":"Combo stanley blanco",
+        "imagen":"./img/Termos/combo-stanley-blanco.jpg",
         "categoria":{
             "nombre":"Termos",
             "id":"termos"
