@@ -80,27 +80,6 @@
         "precio": 2500
     },
     {
-        "id" : "mate-09",
-        "titulo": "Mate camionero",
-        "imagen": "./img/Camioneros/CAMIONERO_8.jpg",
-        "categoria": {
-            "nombre":"Mates Camioneros",
-            "id":"camioneros"
-        },
-        "precio": 2500
-    },
-    {
-        "id" : "mate-10",
-        "titulo": "Mate camionero",
-        "imagen": "./img/Camioneros/CAMIONERO_9.jpg",
-        "categoria": {
-            "nombre":"Mates Camioneros",
-            "id":"camioneros"
-        },
-        "precio": 2500
-    },
-
-    {
         "id":"pampa-01",
         "titulo":"Mate pampa marron",
         "imagen":"./img/Pampa/PAMPA_1.jpg",
@@ -182,33 +161,94 @@
     },
     {
         "id":"termos-01",
-        "titulo":"Combo stanley negro",
+        "titulo":"Combo negro",
         "imagen":"./img/Termos/combo-stanley-negro.jpg",
         "categoria":{
             "nombre":"Termos",
             "id":"termos"
         },
-        "precio":5000
+        "precio":22.465
     },
     {
         "id":"termos-02",
-        "titulo":"Combo stanley rosa",
+        "titulo":"Combo rosa",
         "imagen":"./img/Termos/combo-stanley-rosa.jpg",
         "categoria":{
             "nombre":"Termos",
             "id":"termos"
         },
-        "precio":5000
+        "precio":22.465
     },
+   
     {
-        "id":"termos-03",
-        "titulo":"Combo stanley blanco",
-        "imagen":"./img/Termos/combo-stanley-blanco.jpg",
+        "id":"termos-04",
+        "titulo":"Combo verde grisáceo",
+        "imagen":"./img/Termos/combo-stanley-gris.jpg",
         "categoria":{
             "nombre":"Termos",
             "id":"termos"
         },
-        "precio":5000
+        "precio":22.465
+    },
+    {
+        "id":"termos-05",
+        "titulo":"Combo azul",
+        "imagen":"./img/Termos/combo-azul.jpg",
+        "categoria":{
+            "nombre":"Termos",
+            "id":"termos"
+        },
+        "precio":22.465
+    },
+    {
+        "id":"termos-06",
+        "titulo":"Combo lila",
+        "imagen":"./img/Termos/combo-lila.jpg",
+        "categoria":{
+            "nombre":"Termos",
+            "id":"termos"
+        },
+        "precio":22.465
+    },
+    {
+        "id":"termos-07",
+        "titulo":"Combo negro",
+        "imagen":"./img/Termos/combo-negro.jpg",
+        "categoria":{
+            "nombre":"Termos",
+            "id":"termos"
+        },
+        "precio":22.465
+    },
+    {
+        "id":"termos-08",
+        "titulo":"Combo rojo",
+        "imagen":"./img/Termos/combo-rojo.jpg",
+        "categoria":{
+            "nombre":"Termos",
+            "id":"termos"
+        },
+        "precio":22.465
+    },
+    {
+        "id":"termos-09",
+        "titulo":"Combo blanco",
+        "imagen":"./img/Termos/combo-blanco.jpg",
+        "categoria":{
+            "nombre":"Termos",
+            "id":"termos"
+        },
+        "precio":22.465
+    },
+    {
+        "id":"termos-10",
+        "titulo":"Combo media manija",
+        "imagen":"./img/Termos/combo-mediaManija.jpg",
+        "categoria":{
+            "nombre":"Termos",
+            "id":"termos"
+        },
+        "precio":14400
     }
    
 
