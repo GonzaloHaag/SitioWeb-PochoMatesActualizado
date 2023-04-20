@@ -197,7 +197,7 @@ main {
     filter: brightness(50%);
     z-index: 2;
     transform: scale(1.2);
-    transform: translateY(-20px);
+    transform: translateY(-10px);
     
 
 }
@@ -215,7 +215,7 @@ main {
     text-align: center;
     letter-spacing: 2px;
     gap: .25rem;
-    flex-grow: 1;
+  
 }
 
 .producto-titulo {
@@ -234,13 +234,14 @@ main {
     border-radius: 2rem;
     cursor: pointer;
     border: 2px solid var(--clr-white);
-    transition: background-color .2s, color .2s;
-    flex-grow: 1;
+    transition: background-color .5s, color .5s;
+    
 }
 
 .producto-agregar:hover {
     background-color: var(--clr-main);
     color: var(--clr-white);
+    transition: all 0.6s;
 }
 
 
@@ -445,6 +446,13 @@ main {
     .carrito-acciones {
         flex-wrap: wrap;
         row-gap: 1rem;
+    }
+    .producto-imagen:hover{
+        filter: none;
+        z-index: 0;
+        transform:none;
+        transform: none;
+        
     }
     
 
