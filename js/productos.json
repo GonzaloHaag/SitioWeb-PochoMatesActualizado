@@ -1,81 +1,81 @@
 [ 
     {
         "id" : "mate-01",
-        "titulo": "Mate Camionero",
+        "titulo": "Mate Imperial",
         "imagen": "./img/Camioneros/ALPACA.jpg",
         "categoria": {
-            "nombre":"Mates Camioneros",
-            "id":"camioneros"
+            "nombre":"Mates Imperiales",
+            "id":"imperiales"
         },
         "precio": 2500
     },
     {
         "id" : "mate-02",
-        "titulo": "Mate Camionero",
+        "titulo": "Mate Imperial",
         "imagen": "./img/Camioneros/CAMIONERO.jpg",
         "categoria": {
-            "nombre":"Mates Camioneros",
-            "id":"camioneros"
+            "nombre":"Mates Imperiales",
+            "id":"imperiales"
         },
         "precio": 3000
     },
     {
         "id" : "mate-03",
-        "titulo": "Mate Camionero",
+        "titulo": "Mate Imperial",
         "imagen": "./img/Camioneros/CAMIONERO_2.jpg",
         "categoria": {
-            "nombre":"Mates Camioneros",
-            "id":"camioneros"
+            "nombre":"Mates Imperiales",
+            "id":"imperiales"
         },
         "precio": 3500
     },
     {
         "id" : "mate-04",
-        "titulo": "Mate Camionero",
+        "titulo": "Mate Imperial",
         "imagen": "./img/Camioneros/CAMIONERO_3.jpg",
         "categoria": {
-            "nombre":"Camioneros",
-            "id":"camioneros"
+            "nombre": "Mates Imperiales",
+            "id":"imperiales"
         },
         "precio": 2500
     },
     {
         "id" : "mate-05",
-        "titulo": "Mate camionero",
+        "titulo": "Mate Imperial",
         "imagen": "./img/Camioneros/CAMIONERO_4.jpg",
         "categoria": {
-            "nombre":"Camioneros",
-            "id":"camioneros"
+            "nombre": "Mates Imperiales",
+            "id":"imperiales"
         },
         "precio": 2500
     },
     {
         "id" : "mate-06",
-        "titulo": "Mate camionero",
+        "titulo": "Mate Imperial",
         "imagen": "./img/Camioneros/CAMIONERO_5.jpg",
         "categoria": {
-            "nombre":"Camioneros",
-            "id":"camioneros"
+            "nombre":"Mates Imperiales",
+            "id":"imperiales"
         },
         "precio": 2500
     },
     {
         "id" : "mate-07",
-        "titulo": "Mate alpaca",
+        "titulo": "Mate Imperial",
         "imagen": "./img/Camioneros/CAMIONERO_6.jpg",
         "categoria": {
-            "nombre":"Mates Camioneros",
-            "id":"camioneros"
+            "nombre":"Mates Imperiales",
+            "id":"imperiales"
         },
         "precio": 2500
     },
     {
         "id" : "mate-08",
-        "titulo": "Mate camionero",
+        "titulo": "Mate Imperial",
         "imagen": "./img/Camioneros/CAMIONERO_7.jpg",
         "categoria": {
-            "nombre":"Mates Camioneros",
-            "id":"camioneros"
+            "nombre":"Mates Imperiales",
+            "id":"imperiales"
         },
         "precio": 2500
     },
@@ -164,8 +164,8 @@
         "titulo":"Combo negro",
         "imagen":"./img/Termos/combo-stanley-negro.jpg",
         "categoria":{
-            "nombre":"Termos",
-            "id":"termos"
+            "nombre":"Combos materos",
+            "id":"combos"
         },
         "precio":22.465
     },
@@ -174,8 +174,8 @@
         "titulo":"Combo rosa",
         "imagen":"./img/Termos/combo-stanley-rosa.jpg",
         "categoria":{
-            "nombre":"Termos",
-            "id":"termos"
+            "nombre":"Combos materos",
+            "id":"combos"
         },
         "precio":22.465
     },
@@ -186,7 +186,7 @@
         "imagen":"./img/Termos/combo-stanley-gris.jpg",
         "categoria":{
             "nombre":"Termos",
-            "id":"termos"
+            "id":"combos"
         },
         "precio":22.465
     },
@@ -195,8 +195,8 @@
         "titulo":"Combo azul",
         "imagen":"./img/Termos/combo-azul.jpg",
         "categoria":{
-            "nombre":"Termos",
-            "id":"termos"
+            "nombre":"Combos materos",
+            "id":"combos"
         },
         "precio":22.465
     },
@@ -205,8 +205,8 @@
         "titulo":"Combo lila",
         "imagen":"./img/Termos/combo-lila.jpg",
         "categoria":{
-            "nombre":"Termos",
-            "id":"termos"
+            "nombre":"Combos materos",
+            "id":"combos"
         },
         "precio":22.465
     },
@@ -215,8 +215,8 @@
         "titulo":"Combo negro",
         "imagen":"./img/Termos/combo-negro.jpg",
         "categoria":{
-            "nombre":"Termos",
-            "id":"termos"
+            "nombre":"Combos materos",
+            "id":"combos"
         },
         "precio":22.465
     },
@@ -225,8 +225,8 @@
         "titulo":"Combo rojo",
         "imagen":"./img/Termos/combo-rojo.jpg",
         "categoria":{
-            "nombre":"Termos",
-            "id":"termos"
+            "nombre":"Combos materos",
+            "id":"combos"
         },
         "precio":22.465
     },
@@ -235,8 +235,8 @@
         "titulo":"Combo blanco",
         "imagen":"./img/Termos/combo-blanco.jpg",
         "categoria":{
-            "nombre":"Termos",
-            "id":"termos"
+            "nombre":"Combos materos",
+            "id":"combos"
         },
         "precio":22.465
     },
@@ -245,8 +245,8 @@
         "titulo":"Combo media manija",
         "imagen":"./img/Termos/combo-mediaManija.jpg",
         "categoria":{
-            "nombre":"Termos",
-            "id":"termos"
+            "nombre":"Combos materos",
+            "id":"combos"
         },
         "precio":14400
     }
