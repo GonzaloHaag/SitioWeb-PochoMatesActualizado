@@ -2,7 +2,7 @@
     {
         "id" : "mate-01",
         "titulo": "Mate Imperial",
-        "imagen": "./img/Camioneros/ALPACA.jpg",
+        "imagen": "./img/Camioneros/ALPACA.webp",
         "categoria": {
             "nombre":"Mates Imperiales",
             "id":"imperiales"
@@ -12,7 +12,7 @@
     {
         "id" : "mate-02",
         "titulo": "Mate Imperial",
-        "imagen": "./img/Camioneros/CAMIONERO.jpg",
+        "imagen": "./img/Camioneros/CAMIONERO.webp",
         "categoria": {
             "nombre":"Mates Imperiales",
             "id":"imperiales"
@@ -22,7 +22,7 @@
     {
         "id" : "mate-03",
         "titulo": "Mate Imperial",
-        "imagen": "./img/Camioneros/CAMIONERO_2.jpg",
+        "imagen": "./img/Camioneros/CAMIONERO_2.webp",
         "categoria": {
             "nombre":"Mates Imperiales",
             "id":"imperiales"
@@ -42,7 +42,7 @@
     {
         "id" : "mate-05",
         "titulo": "Mate Imperial",
-        "imagen": "./img/Camioneros/CAMIONERO_4.jpg",
+        "imagen": "./img/Camioneros/CAMIONERO_4.webp",
         "categoria": {
             "nombre": "Mates Imperiales",
             "id":"imperiales"
@@ -52,7 +52,7 @@
     {
         "id" : "mate-06",
         "titulo": "Mate Imperial",
-        "imagen": "./img/Camioneros/CAMIONERO_5.jpg",
+        "imagen": "./img/Camioneros/CAMIONERO_5.webp",
         "categoria": {
             "nombre":"Mates Imperiales",
             "id":"imperiales"
@@ -62,7 +62,7 @@
     {
         "id" : "mate-07",
         "titulo": "Mate Imperial",
-        "imagen": "./img/Camioneros/CAMIONERO_6.jpg",
+        "imagen": "./img/Camioneros/CAMIONERO_6.webp",
         "categoria": {
             "nombre":"Mates Imperiales",
             "id":"imperiales"
@@ -72,7 +72,7 @@
     {
         "id" : "mate-08",
         "titulo": "Mate Imperial",
-        "imagen": "./img/Camioneros/CAMIONERO_7.jpg",
+        "imagen": "./img/Camioneros/CAMIONERO_7.webp",
         "categoria": {
             "nombre":"Mates Imperiales",
             "id":"imperiales"
@@ -82,7 +82,7 @@
     {
         "id":"pampa-01",
         "titulo":"Mate pampa marron",
-        "imagen":"./img/Pampa/PAMPA_1.jpg",
+        "imagen":"./img/Pampa/PAMPA_1.webp",
         "categoria":{
             "nombre":"Mates Pampa",
             "id":"pampa"
@@ -92,7 +92,7 @@
     {
         "id":"pampa-02",
         "titulo":"Mate pampa negro",
-        "imagen":"./img/Pampa/PAMPA_2.jpg",
+        "imagen":"./img/Pampa/PAMPA_2.webp",
         "categoria":{
             "nombre":"Mates Pampa",
             "id":"pampa"
@@ -102,7 +102,7 @@
     {
         "id":"pampa-03",
         "titulo":"Mate pampa rosa",
-        "imagen":"./img/Pampa/PAMPA_3.jpg",
+        "imagen":"./img/Pampa/PAMPA_3.webp",
         "categoria":{
             "nombre":"Pampa",
             "id":"pampa"
@@ -112,7 +112,7 @@
     {
         "id":"pampa-04",
         "titulo":"Mate pampa blanco",
-        "imagen":"./img/Pampa/PAMPA_4.jpg",
+        "imagen":"./img/Pampa/PAMPA_4.webp",
         "categoria":{
             "nombre":"Mates Pampa",
             "id":"pampa"
@@ -122,7 +122,7 @@
     {
         "id":"pampa-05",
         "titulo":"Mate pampa gris",
-        "imagen":"./img/Pampa/PAMPA_5.jpg",
+        "imagen":"./img/Pampa/PAMPA_5.webp",
         "categoria":{
             "nombre":"Pampa",
             "id":"pampa"
@@ -142,7 +142,7 @@
     {
         "id":"pampa-07",
         "titulo":"Mate pampa",
-        "imagen":"./img/Pampa/PAMPA_7.jpg",
+        "imagen":"./img/Pampa/PAMPA_7.webp",
         "categoria":{
             "nombre":"Mates Pampa",
             "id":"pampa"
@@ -152,7 +152,7 @@
     {
         "id":"pampa-08",
         "titulo":"Mate pampa",
-        "imagen":"./img/Pampa/PAMPA_8.jpg",
+        "imagen":"./img/Pampa/PAMPA_8.webp",
         "categoria":{
             "nombre":"Mates Pampa",
             "id":"pampa"
