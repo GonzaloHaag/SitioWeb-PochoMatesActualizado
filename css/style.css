@@ -3,34 +3,50 @@
 
 :root {
     /* --clr-main: #4b33a8; */
-    --clr-main:rgb(117, 207, 117);
+    --clr-main: rgb(117, 207, 117);
     --clr-main-light: #785ce9;
     --clr-white: #ececec;
     --clr-gray: #e2e2e2;
     --clr-red: #961818;
 }
-*{
+
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
     font-family: 'Roboto Condensed', sans-serif;
-    
+
 }
-h1, h2, h3, h4, h5, h6, p, a, input, textarea, ul {
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+a,
+input,
+textarea,
+ul {
     margin: 0;
     padding: 0;
 }
-ul{
+
+ul {
     list-style-type: none;
 }
-a{
+
+a {
     text-decoration: none;
 }
-.wrapper{
+
+.wrapper {
     display: grid;
     grid-template-columns: 1fr 4fr;
     background-color: var(--clr-main);
 }
+
 aside {
     padding: 2rem;
     padding-right: 0;
@@ -50,7 +66,8 @@ aside {
     align-items: center;
     gap: 1.2rem;
 }
-.logo-img{
+
+.logo-img {
     width: 2em;
     height: 2em;
 }
@@ -58,7 +75,11 @@ aside {
 .menu {
     display: flex;
     flex-direction: column;
-    gap: .5rem;
+   /* gap: .5rem; */
+    transform: translateY(2%);
+
+
+
 }
 
 .boton-menu {
@@ -107,13 +128,19 @@ aside {
     box-shadow: 0 -1rem 0 var(--clr-white);
 }
 
-.boton-menu > i.bi-hand-index-thumb-fill,
-.boton-menu > i.bi-hand-index-thumb {
+.boton-menu>i.bi-hand-index-thumb-fill,
+.boton-menu>i.bi-hand-index-thumb {
     transform: rotateZ(90deg);
 }
 
 .boton-carrito {
     margin-top: 2rem;
+    margin-left: 2em;
+    transform: translateY(-8em);
+    display: flex;
+
+
+
 }
 
 .numerito {
@@ -128,26 +155,37 @@ aside {
     color: var(--clr-white);
 }
 
+.button-volver {
+
+    transform: translateY(-3em);
+    padding-left: 1.5em;
+}
+
 .texto-footer {
     color: var(--clr-main-light);
     font-size: .85rem;
 }
-.footer{
+
+.footer {
     display: flex;
     align-items: center;
+
 }
-.redes{
+
+.redes {
     display: flex;
     align-items: center;
     gap: 4em;
     padding-right: 2em;
 }
-.redes a i{
+
+.redes a i {
     color: var(--clr-white);
     font-size: 20px;
-    transition:0.2s;
+    transition: 0.2s;
 }
-.redes a i:hover{
+
+.redes a i:hover {
     color: var(--clr-main-light);
 }
 
@@ -169,16 +207,17 @@ main {
     grid-template-columns: repeat(4, 1fr);
     gap: 1rem;
     flex-wrap: wrap;
-  
+
 }
-.producto{
+
+.producto {
     cursor: pointer;
     margin: 0;
     flex-grow: 1;
     display: flex;
     flex-direction: column;
     overflow: hidden;
-   
+
 }
 
 
@@ -189,16 +228,17 @@ main {
     height: 70%;
     border-radius: 1rem;
     transition: all 0.6s ease;
-  
-   
-  
+
+
+
 }
-.producto-imagen:hover{
+
+.producto-imagen:hover {
     filter: brightness(50%);
     /* z-index: 2; */
-    transform: scale(1.2); 
-     transform: translateY(-10px); 
-    
+    transform: scale(1.2);
+    transform: translateY(-10px);
+
 
 }
 
@@ -215,14 +255,14 @@ main {
     text-align: center;
     letter-spacing: 2px;
     gap: .25rem;
-  
+
 }
 
 .producto-titulo {
     font-size: 1rem;
     text-transform: uppercase;
     flex-grow: 1;
-    
+
 }
 
 .producto-agregar {
@@ -235,7 +275,7 @@ main {
     cursor: pointer;
     border: 2px solid var(--clr-white);
     transition: background-color .5s, color .5s;
-    
+
 }
 
 .producto-agregar:hover {
@@ -243,36 +283,101 @@ main {
     color: var(--clr-white);
     transition: all 0.6s;
 }
+
 /*Menu mates pampa y camioneros(imperiales)*/
 .menu-mates{
     position: static;
-  
     padding-left: 2.5rem;
     left: 0;
     right: 0;
-    
-   transform: translateX(-115%);
+    transform: translateX(-115%);
     visibility: hidden;
-    transition: 0.8s;
+    transition: 0.5s;
     margin-bottom: 5rem;
     
+}
+.menu-accesorios{
+    position: static;
+    padding-left: 2.5rem;
+    left: 0;
+    right: 0;
+    transform: translateX(-115%);
+    visibility: hidden;
+    transition: 0.5s;
+    margin-bottom: 0;
+    padding-bottom: 0;
 
-    
- }
- .margin-top{
+}
+.accesorios{
+    transform: translateY(-10.5em);
+    transition:0.5s
+}
+.accesorios.translate{
+    transform: translateY(-5em);
+    transition:0.5s;
+}
+#bombillas,#yerberas,#bolucompras,#materas{
+    transform: translateY(-10.5em);
+    transition: 0.5s;
+}
+#bombillas.translate,#yerberas.translate,#bolucompras.translate,#materas.translate{
+    transform: translateY(-5em);
+    transition: 0.5s;
+}
+.margin-top {
     margin-top: -10rem;
-    transition: 0.8s;
- }
- .margin {
+    transition: 0.5s;
+}
+
+.margin {
     margin-top: -5rem;
-    transition: 0.8s;
- }
- .menu-mates-visible{
+    transition: 0.5s;
+}
+
+.menu-mates-visible,.menu-accesorios-visible {
     transform: translateX(0);
     /*opacity: 2;*/
     visibility: visible;
 }
 
+#vasos-jarras {
+    transform: translateY(-10em);
+    transition: 0.5s;
+}
+
+#vasos-jarras.translate {
+    /*
+    Esto es cuando se abre el menu de mates imperiales y pampas
+    */
+    transform: translateY(-4.5em);
+    transition: 0.5s;
+}
+
+#combos {
+    transform: translateY(-1.5em);
+}
+
+#termos {
+    transform: translateY(-13em);
+    transition: 0.5s;
+
+}
+
+#termos.translate {
+    /*Esto es como un if, si termos tiene la clase translate*/
+    transform: translateY(-6.5em);
+    transition: 0.5s;
+}
+
+#accesorios {
+    transform: translateY(-10em);
+    transition: 0.5s;
+}
+
+#accesorios.translate {
+    transform: translateY(-5em);
+    transition: 0.5s;
+}
 
 /** CARRITO **/
 
@@ -396,7 +501,7 @@ main {
     }
 
     aside {
-        position: fixed;
+        position:  fixed;
         z-index: 9;
         background-color: var(--clr-main);
         padding-right: 2rem;
@@ -434,16 +539,17 @@ main {
         display: flex;
         justify-content: space-between;
         align-items: center;
-       
+
     }
 
     .header-mobile .logo {
         color: var(--clr-gray);
-       
-        
+
+
     }
 
-    .open-menu, .close-menu {
+    .open-menu,
+    .close-menu {
         background-color: transparent;
         color: var(--clr-gray);
         border: 0;
@@ -456,9 +562,9 @@ main {
         position: absolute;
         top: 0.2rem;
         right: 0.2rem;
-       
-      
-       
+
+
+
     }
 
     .carrito-producto {
@@ -476,14 +582,15 @@ main {
         flex-wrap: wrap;
         row-gap: 1rem;
     }
-    .producto-imagen:hover{
+
+    .producto-imagen:hover {
         filter: none;
         z-index: 0;
-        transform:none;
         transform: none;
-        
+        transform: none;
+
     }
-    
+
 
 }
 
@@ -494,5 +601,3 @@ main {
         grid-template-columns: 1fr;
     }
 }
-
-

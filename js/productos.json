@@ -1,4 +1,4 @@
-[ 
+[   
     {
         "id" : "mate-01",
         "titulo": "Mate Imperial",
@@ -159,8 +159,9 @@
         },
         "precio": 3500
     },
+    
     {
-        "id":"termos-01",
+        "id":"combos-01",
         "titulo":"Combo negro",
         "imagen":"./img/Termos/combo-stanley-negro.jpg",
         "categoria":{
@@ -170,7 +171,7 @@
         "precio":22.465
     },
     {
-        "id":"termos-02",
+        "id":"combos-02",
         "titulo":"Combo rosa",
         "imagen":"./img/Termos/combo-stanley-rosa.jpg",
         "categoria":{
@@ -181,7 +182,7 @@
     },
    
     {
-        "id":"termos-04",
+        "id":"combos-03",
         "titulo":"Combo verde grisáceo",
         "imagen":"./img/Termos/combo-stanley-gris.jpg",
         "categoria":{
@@ -191,7 +192,7 @@
         "precio":22.465
     },
     {
-        "id":"termos-05",
+        "id":"combos-03",
         "titulo":"Combo azul",
         "imagen":"./img/Termos/combo-azul.jpg",
         "categoria":{
@@ -201,7 +202,7 @@
         "precio":22.465
     },
     {
-        "id":"termos-06",
+        "id":"combos-04",
         "titulo":"Combo lila",
         "imagen":"./img/Termos/combo-lila.jpg",
         "categoria":{
@@ -211,7 +212,7 @@
         "precio":22.465
     },
     {
-        "id":"termos-07",
+        "id":"combos-05",
         "titulo":"Combo negro",
         "imagen":"./img/Termos/combo-negro.jpg",
         "categoria":{
@@ -221,7 +222,7 @@
         "precio":22.465
     },
     {
-        "id":"termos-08",
+        "id":"combos-06",
         "titulo":"Combo rojo",
         "imagen":"./img/Termos/combo-rojo.jpg",
         "categoria":{
@@ -231,7 +232,7 @@
         "precio":22.465
     },
     {
-        "id":"termos-09",
+        "id":"combos-07",
         "titulo":"Combo blanco",
         "imagen":"./img/Termos/combo-blanco.jpg",
         "categoria":{
@@ -241,7 +242,7 @@
         "precio":22.465
     },
     {
-        "id":"termos-10",
+        "id":"combos-08",
         "titulo":"Combo media manija",
         "imagen":"./img/Termos/combo-mediaManija.jpg",
         "categoria":{
@@ -249,7 +250,49 @@
             "id":"combos"
         },
         "precio":14400
+    },
+    
+    { 
+        "id":"vasos-1",
+        "titulo":"Vaso Beer",
+        "imagen":"./img/vasosYJarras/vaso1.webp",
+        "categoria":{
+            "nombre":"Vasos y Jarras",
+            "id":"vasos-jarras"
+        },
+        "precio":9300
+    },
+    {
+        "id":"vasos-2",
+        "titulo":"Vaso Beer Azul",
+        "imagen":"./img/vasosYJarras/vaso2.webp",
+        "categoria":{
+            "nombre":"Vasos y Jarras",
+            "id":"vasos-jarras"
+        },
+        "precio":9300
+    },
+    {
+        "id":"vasos-3",
+        "titulo":"Vaso Fernetero Unión",
+        "imagen":"./img/vasosYJarras/vaso3 (1).webp",
+        "categoria":{
+            "nombre":"Vasos y Jarras",
+            "id":"vasos-jarras"
+        },
+        "precio":2600
+    },
+    {
+        "id":"jarra-1",
+        "titulo":"Jarra 1L Unión",
+        "imagen":"./img/vasosYJarras/jarra1.webp",
+        "categoria":{
+            "nombre":"Vasos y Jarras",
+            "id":"vasos-jarras"
+        },
+        "precio":3150
     }
+
    
 
 
