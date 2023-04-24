@@ -102,6 +102,8 @@ aside {
     border-top-left-radius: 1rem;
     border-bottom-left-radius: 1rem;
     position: relative;
+   
+    
 }
 
 .boton-menu.active::before {
@@ -114,6 +116,8 @@ aside {
     background-color: transparent;
     border-bottom-right-radius: .5rem;
     box-shadow: 0 1rem 0 var(--clr-white);
+    
+   
 }
 
 .boton-menu.active::after {
@@ -126,6 +130,8 @@ aside {
     background-color: transparent;
     border-top-right-radius: .5rem;
     box-shadow: 0 -1rem 0 var(--clr-white);
+   
+    
 }
 
 .boton-menu>i.bi-hand-index-thumb-fill,
@@ -477,6 +483,21 @@ main {
 .disabled {
     display: none;
 }
+.descuento{
+   
+    display: block;
+    white-space: nowrap;
+    border-right: 4px solid;
+    width: 42ch; /*Numero de caracteres contando los espacios en blanco*/
+    animation: typing 1.5s steps(42),
+    blink .5s infinite step-end alternate;
+    overflow: hidden;
+    color: var(--clr-main-light);
+}
+.descuento-mobile{
+    display: none;
+}
+
 
 /*** MEDIA QUERIES ***/
 
@@ -599,5 +620,34 @@ main {
 @media screen and (max-width: 400px) {
     .contenedor-productos {
         grid-template-columns: 1fr;
+    }
+  
+}
+@media screen and (max-width: 500px) {
+    .descuento{
+        
+        display: none;
+    }
+    .descuento-mobile{
+        display: block;
+        color: var(--clr-main-light);
+        width: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+    }
+}
+
+
+
+@keyframes typing{
+    from{
+        width: 0;
+    }
+}
+@keyframes blink{
+    50%{
+        border-color: transparent;
     }
 }
